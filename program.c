@@ -145,6 +145,7 @@ int main()
         }
     }
 
+
     // Ask the user for a blood group and display the results
     char inputBloodGroup[5];
     printf("Enter a blood group (e.g., A+, B+, O+, AB-, etc.): ");
